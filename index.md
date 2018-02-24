@@ -36,6 +36,6 @@ This contains instructions on how to install python 3 on your own computer
 #### [Summary](./docs/what_you_have_learnt.md)
 This contains suggestions on what you could next to further develop your coding skills.
 
-## [Projects] (./docs/projects_intro.md)
+## [Projects](./docs/projects_intro.md)
 Have a go at some coding projects using trinket! Here you will find the guides to help you create with the raspberrypi. 
 
