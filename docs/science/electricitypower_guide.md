@@ -1,4 +1,4 @@
-## Electricity and Power 
+## Electricity and Power! 
 
 ### Session Description: 
 A discussion on the sources, uses and potential dangers of electricity. 
