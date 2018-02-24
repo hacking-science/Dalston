@@ -13,7 +13,11 @@ Brief mention of the physiological effects of electrical sources.
 
 * <a href="https://www.bbc.co.uk/search?filter=bitesize&q=electricit" target="_blank">BBC bitesize has some great resources, click here and find out what you can learn from this resource</a>
 
-http://www.switchedonkids.org.uk/electrical-safety-in-your-home
-http://www.learningcircuits.co.uk/
-http://flash.topmarks.co.uk/2864
-http://www.bbc.co.uk/bitesize/ks1/science/electricity/play/ 
+* <a href="http://www.switchedonkids.org.uk/electrical-safety-in-your-home" target="_blank">resource1</a>
+
+* <a href="http://www.learningcircuits.co.uk/" target="_blank">resource2</a>
+
+* <a href="http://flash.topmarks.co.uk/2864" target="_blank">resource3</a>
+
+* <a href="http://www.bbc.co.uk/bitesize/ks1/science/electricity/play/" target="_blank">resource4</a>
+
