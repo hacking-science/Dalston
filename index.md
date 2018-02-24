@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Welcome to hackingScience workshops at Dalston library! 
 
-You can use the [editor on GitHub](https://github.com/hacking-science/dalston/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here we alternate between learning about science and programming. We want to explore our curiosity together through science and also our creativity through programming and the potential you have to create whatever you want! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our mentors for these sessions are part of your club, and have all studied a science realted subject at univeristy, ask away to us. 
 
-### Markdown
+Below are worshop sessions. Click on tittle to discover more! 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Session material Science 
 
-```markdown
-Syntax highlighted code block
+#### [Electricity and Power](./docs/science/electricitypower_guide.md)
 
-# Header 1
-## Header 2
-### Header 3
+A discussion on the sources, uses and potential dangers of electricity.
 
-- Bulleted
-- List
+## Session material Programming  
 
-1. Numbered
-2. List
+#### [Introduction to Python and the Sense HAT](./docs/programming/sense_hat_intro.md)
 
-**Bold** and _Italic_ and `Code` text
+Introduces you to the basics of Python and using the Sense HAT. You should
+read through this and do all the exercises before attempting any projects.
 
-[Link](url) and ![Image](src)
-```
+#### [Function Reference](./docs/function_reference.md)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This contains descriptions of some functions that will be useful to you
+when you're working with your projects.
 
-### Jekyll Themes
+#### [Running Files on the Sense HAT](./docs/running_files_on_the_sense_hat.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hacking-science/dalston/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This contains instructions on how to transfer code from the desktop to the Sense HAT and run it.
 
-### Support or Contact
+## Post Sessions Material
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### [Installing Python on your Computer](./docs/guide_to_installing_python.md)
+This contains instructions on how to install python 3 on your own computer
+
+#### [Summary](./docs/what_you_have_learnt.md)
+This contains suggestions on what you could next to further develop your coding skills.
+
+## [Projects] (./docs/projects_intro.md)
+Have a go at some coding projects using trinket! Here you will find the guides to help you create with the raspberrypi. 
+
