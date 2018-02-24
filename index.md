@@ -14,28 +14,11 @@ A discussion on the sources, uses and potential dangers of electricity.
 
 ## Session material Programming  
 
-#### [Introduction to Python and the Sense HAT](./docs/programming/sense_hat_intro.md)
+#### Programming with the Raspberry pi and trinket 
 
-Introduces you to the basics of Python and using the Sense HAT. You should
-read through this and do all the exercises before attempting any projects.
+Have a go at some coding projects using trinket! Here you will find the guides to help you create with the raspberrypi.
 
-#### [Function Reference](./docs/function_reference.md)
+<a href="https://hackingsciencebridgeacademy.github.io/bridge-academy/" target="_blank">Find here all the links to get you coding, have a go at some of the projects. There are easy, hard and medium ones!</a>
 
-This contains descriptions of some functions that will be useful to you
-when you're working with your projects.
 
-#### [Running Files on the Sense HAT](./docs/running_files_on_the_sense_hat.md)
-
-This contains instructions on how to transfer code from the desktop to the Sense HAT and run it.
-
-## Post Sessions Material
-
-#### [Installing Python on your Computer](./docs/guide_to_installing_python.md)
-This contains instructions on how to install python 3 on your own computer
-
-#### [Summary](./docs/what_you_have_learnt.md)
-This contains suggestions on what you could next to further develop your coding skills.
-
-## [Projects](./docs/projects_intro.md)
-Have a go at some coding projects using trinket! Here you will find the guides to help you create with the raspberrypi. 
 
