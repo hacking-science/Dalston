@@ -12,6 +12,9 @@ Below are worshop sessions. Click on tittle to discover more!
 
 A discussion on the sources, uses and potential dangers of electricity.
 
+#### [Earth Timeline](./docs/science/earth_timeline.md)
+ 
+
 ## Session material Programming  
 
 #### Programming with the Raspberry pi and trinket 
